@@ -1,0 +1,14 @@
+# humanstxt.org/
+# TEAM
+#some change ---now
+# diff change test
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+  Bibhash Roy
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
